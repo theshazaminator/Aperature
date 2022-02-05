@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 import tkinter as tk
+=======
+print("Hello World")
+>>>>>>> Stashed changes
 
 class Apt:
     def __init__ (self):
